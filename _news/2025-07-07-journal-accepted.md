@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📄 Journal article accepted.
+📄 Journal article accepted in Elsevier Expert Systems.
