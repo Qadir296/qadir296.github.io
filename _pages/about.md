@@ -7,7 +7,7 @@ subtitle: Postdoc @ EPITA, France • IoT Security • AI ⇄ Knowledge-Based Sy
 profile:
   align: right
   image: asset/img/KHAN.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>abdul-qadir[DOT]khan[AT]epita.fr</p>
     <p>Paris, France</p>
