@@ -2,21 +2,21 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD @ Sorbonne University, France • IoT Security • AI ⇄ Knowledge-Based Systems
+subtitle: Postdoc @ EPITA, France • IoT Security • AI ⇄ Knowledge-Based Systems
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>abdulqadir[DOT]khan[AT]example.com</p>
+    <p>abdul-qadir[DOT]khan[AT]epita.fr</p>
     <p>Paris, France</p>
 
 selected_papers: true
 social: true
 ---
 
-Hey, Salut, Ciao! 👋
+Hey, Salut, Hola, Ciao! 👋
 I am **Post doctoral researcher** at the Security and Systems Team at [LRE EPITA](https://www.lre.epita.fr/), working on the detection of attacks in Industrial Control Systems. 
 
 Previously, I did my PhD from [Sorbonne University](https://www.sorbonne-universite.fr), working with **Prof. Lina Mroueh**, **Dr. Nouredine Tamani**, and **Dr. Saad El Jaouhari** on Knowledge-based systems for cybersecurity. 
