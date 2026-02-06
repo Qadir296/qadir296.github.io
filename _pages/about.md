@@ -16,15 +16,14 @@ selected_papers: true
 social: true
 ---
 
-Hi, thanks for visiting! 👋
+Hey, Salut, Ciao! 👋
+I am **Post doctoral researcher** at the Security and Systems Team at [LRE EPITA](https://www.lre.epita.fr/), working on the detection of attacks in Industrial Control Systems. 
 
-I am a **Cybersecurity researcher** with a PhD from **Sorbonne University, France**, working at the intersection of **IoT security**, **AI-based intrusion detection**, and **knowledge-based systems**.
+Previously, I did my PhD from [Sorbonne University](https://www.sorbonne-universite.fr), working with **Prof. Lina Mroueh**, **Dr. Nouredine Tamani**, and **Dr. Saad El Jaouhari** on Knowledge-based systems for cybersecurity. 
 
-Previously, I conducted research and development at **Inria**, where I contributed to **ETSI standards** related to **IoT resource discovery** and **asynchronous contact tracing**.
+I have also contributed to **ETSI standards** related to **IoT resource discovery** and **asynchronous contact tracing** during my research internship at KAIROS Team Inria, Sophia Antipolis. 
 
 My research focuses on designing **efficient and explainable security mechanisms** for large-scale and resource-constrained IoT environments. I am particularly interested in combining **symbolic reasoning** with **data-driven approaches** to improve the robustness and interpretability of anomaly detection systems.
 
-I am currently interested in **postdoctoral research positions** and **R&D roles** in cybersecurity, AI security, and explainable AI.
-
-Outside of research, I enjoy staying active, traveling, and exploring new places. I have lived in France for several years and speak **French**.
+Outside of research, I am a beginner photographer. I enjoy traveling, hiking, and reading.
 
