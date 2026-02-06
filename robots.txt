@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aqkhan.github.io/sitemap.xml
+Sitemap: https://abdulqadirkhan.github.io/sitemap.xml
