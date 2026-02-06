@@ -12,8 +12,12 @@ profile:
     <p>abdul-qadir[DOT]khan[AT]epita.fr</p>
     <p>Paris, France</p>
 
-selected_papers: true
+selected_papers: false
 social: true
+
+announcements:
+  enabled: true
+  limit: 5
 ---
 
 Hey, Salut, Hola, Ciao! 👋
