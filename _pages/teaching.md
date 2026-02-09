@@ -64,8 +64,3 @@ calendar: true
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
----
-
-## 📚 Course Materials
-
-{% include courses.liquid %}
