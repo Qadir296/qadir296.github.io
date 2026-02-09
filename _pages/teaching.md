@@ -1,25 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-## 🎓 Teaching Experience (Master's level)
+## Teaching Experience (Master's level)
 
-### 🗓️ 2025
+**🗓️ 2025**
 
-**Data Privacy by Design**  
+**[Data Privacy by Design](https://www.epita.fr/en/msc-computer-science-program-overview/)**  
 - **Hours:** 30h  
 - **Role:** Teacher
 - **Program:** Master (DSA, SE)   
 - **Institution:** EPITA, Kremlin Bicêtre, France
 - **Language:** English
 
-**Introduction to Python Programming**  
+**[Introduction to Python Programming](https://www.epita.fr/en/msc-computer-science-program-overview/)**  
 - **Hours:** 40h  
 - **Role:** Course Coordinator
 - **Program:** Master (DSA, AIS)
@@ -31,10 +31,10 @@ calendar: true
 ## 🎓 Teaching Experience (Bachelor/Engineering level)
 
 ### 🗓️ 2025
-**Implementation of Web Security Protocol**  
+**[Implementation of Web Security Protocol](https://www.epita.fr/en/bsc-computer-science-program-overview/)**  
 - **Hours:** 24h  
 - **Role:** Course Coordinator
-- **Program:** Bachelor Cyber (L3)
+- **Program:** Bachelor Computer Science (L3)
 - **Institution:** EPITA, Kremlin Bicêtre, France
 - **Language:** English
 
