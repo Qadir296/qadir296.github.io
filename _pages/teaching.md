@@ -2,13 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-## Teaching Experience (Master's level)
+## Master's level
 
 **🗓️ 2025**
 
@@ -28,9 +27,9 @@ calendar: true
 
 ---
 
-## 🎓 Teaching Experience (Bachelor/Engineering level)
+## Bachelor/Engineering level
 
-### 🗓️ 2025
+**🗓️ 2025**
 **[Implementation of Web Security Protocol](https://www.epita.fr/en/bsc-computer-science-program-overview/)**  
 - **Hours:** 24h  
 - **Role:** Course Coordinator
@@ -38,9 +37,9 @@ calendar: true
 - **Institution:** EPITA, Kremlin Bicêtre, France
 - **Language:** English
 
-### 🗓️ 2023–2024
+ **🗓️ 2023–2024**
 
-**Computer Science**  
+**[Computer Science](https://www.isep.fr/en/course/integrated-engineering-cycle/)**  
 - **Hours:** 40h  
 - **Role:** Teaching Assistant  
 - **Program:** Bac+2  
@@ -49,9 +48,9 @@ calendar: true
 
 ---
 
-### 🗓️ 2022–2023
+ **🗓️ 2022–2023**
 
-**Robotics**  
+**[Robotics](https://www.isep.fr/en/course/integrated-engineering-cycle/)**  
 - **Hours:** 64h  
 - **Role:** Teaching Assistant  
 - **Program:** Bac+2  
