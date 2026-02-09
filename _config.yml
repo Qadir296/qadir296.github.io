@@ -278,7 +278,6 @@ enable_project_categories: true
 enable_medium_zoom: true
 enable_progressbar: true
 enable_video_embedding: false
-enable_command_palette: false
 
 
 
