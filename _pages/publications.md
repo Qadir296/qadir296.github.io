@@ -7,23 +7,4 @@ nav: true
 nav_order: 3
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-**Journal Articles**
-{% bibliography --query @article %}
-
-**Conference Papers**
-{% bibliography --query @inproceedings %}
-
-**Technical Reports**
-{% bibliography --query @techreport %}
-
-**Thesis**
-{% bibliography --query @phdthesis %}
-
-</div>
+{% bibliography %}
