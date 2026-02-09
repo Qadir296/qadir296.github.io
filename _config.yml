@@ -176,7 +176,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-
+third_party_libraries: {}
 plugins:
   - jekyll-3rd-party-libraries
   - jekyll-archives-v2
