@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Publications grouped by type and ordered chronologically.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
@@ -14,16 +14,16 @@ nav_order: 2
 
 <div class="publications">
 
-## Journal Articles
+**Journal Articles**
 {% bibliography --query @article %}
 
-## Conference Papers
+**Conference Papers**
 {% bibliography --query @inproceedings %}
 
-## Technical Reports
+**Technical Reports**
 {% bibliography --query @techreport %}
 
-## Thesis
+**Thesis**
 {% bibliography --query @phdthesis %}
 
 </div>
