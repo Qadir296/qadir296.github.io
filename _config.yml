@@ -50,6 +50,7 @@ search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
+search_in_navbar: false
 
 max_width: 930px
 
