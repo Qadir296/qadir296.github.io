@@ -1,63 +1,56 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Abdul Qadir Khan",
+    "label": "Post-doctoral Researcher",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "abdul-qadir.khan@epita.fr",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "18 Rue Pasteur",
+      "postalCode": "94270",
+      "city": "Le Kremlin-Bicêtre",
+      "countryCode": "France"
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "LRE EPITA",
+      "position": "Post-doctoral Researcher",
+      "location": "Le Kremlin-Bicêtre",
+      "startDate": "2025-09-01",
+      "endDate": "-"
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Sorbonne University",
+      "position": "PhD Candidate",
+      "location": "Paris",
+      "startDate": "2021-10-01",
+      "endDate": "2024-12-18"
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "name": "ISEP",
+      "position": "Teaching Assistant",
+      "location": "Paris",
+      "startDate": "2022-11-01",
+      "endDate": "2024-06-30",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "name": "Inria",
+      "position": "Research Intern",
+      "location": "Sophia Antipolis, Nice",
+      "startDate": "2020-05-01",
+      "endDate": "2020-12-15",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "Inria",
+      "position": "Research Intern",
+      "location": "Sophia Antipolis, Nice",
+      "startDate": "2021-04-01",
+      "endDate": "2021-09-15",
       "summary": "",
       "highlights": []
     }
