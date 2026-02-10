@@ -4,6 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Abdul_CV.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
+cv_pdf: Abdul_CV # you can also use external links here
+description: Click on the icon to download the CV
+toc:
+  sidebar: left
 ---
