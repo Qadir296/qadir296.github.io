@@ -258,8 +258,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Khan]
+  first_name: [Abdul Qadir]
   style: apa
   locale: en
   source: /_bibliography/
