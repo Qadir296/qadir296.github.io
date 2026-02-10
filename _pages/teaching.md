@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
 ## Master's level
@@ -30,6 +30,7 @@ calendar: true
 ## Bachelor/Engineering level
 
 **🗓️ 2025**
+
 **[Implementation of Web Security Protocol](https://www.epita.fr/en/bsc-computer-science-program-overview/)**  
 - **Hours:** 24h  
 - **Role:** Course Coordinator
@@ -56,10 +57,4 @@ calendar: true
 - **Program:** Bac+2  
 - **Institution:** ISEP, Paris, France 
 - **Language:** English  
-
----
-
-## 📅 Teaching Calendar
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
