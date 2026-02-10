@@ -1,16 +1,18 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+# for more information, please refer to the documentation of jekyll-socials plugin:
+# https://github.com/george-gca/jekyll-socials
 
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: abdul-qadir.khan@epita.fr # your email address
+cv_pdf: /assets/pdf/example_pdf.pdf
+email: abdul-qadir.khan@epita.fr
 
-github_username: qadir296
-linkedin_username: abdul-qadir-khan
-scholar_userid: qc6CJjYAAAAJ # Google Scholar ID
+github_url: https://github.com/qadir296
+linkedin_url: https://www.linkedin.com/in/abdul-qadir-khan/
+scholar_url: https://scholar.google.com/citations?user=ieIkq6wAAAAJ&hl=en
 
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: true
 
-# wechat_qr: # filename of your wechat qr-code saved as an image
-# whatsapp_number: # full phone number in international format
+# Optional / unused
+# inspirehep_id: 1010907
+# wechat_qr:
+# whatsapp_number:
