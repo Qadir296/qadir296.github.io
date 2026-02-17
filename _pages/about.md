@@ -24,7 +24,7 @@ Hey, Salut, Hola, Ciao! 👋
 
 I am a postdoctoral researcher at the Security and Systems Team at [LRE EPITA](https://www.lre.epita.fr/), currently working on the detection of attacks in Industrial Control Systems. 
 
-Previously, I did my PhD from [Sorbonne University](https://www.sorbonne-universite.fr), working with Prof. Lina Mroueh, Dr. Nouredine Tamani, and Dr. Saad El Jaouhari on Knowledge-based systems for cybersecurity. 
+Previously, I did my PhD from [Sorbonne University](https://www.sorbonne-universite.fr), under supervison of Prof. Lina Mroueh, Dr. Nouredine Tamani, and Dr. Saad El Jaouhari on Knowledge-based systems for cybersecurity. 
 
 I have also contributed to ETSI standards related to IoT resource discovery and asynchronous contact tracing during my research internship at KAIROS Team Inria, Sophia Antipolis. 
 
