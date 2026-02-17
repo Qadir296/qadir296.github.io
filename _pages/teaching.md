@@ -19,7 +19,7 @@ calendar: false
 - **Language:** English
 
 **[Introduction to Python Programming](https://www.epita.fr/en/msc-computer-science-program-overview/)**  
-- **Hours:** 40h  
+- **Hours:** 42h  
 - **Role:** Course Coordinator
 - **Program:** Master (DSA, AIS)
 - **Institution:** EPITA, Kremlin Bicêtre, France
