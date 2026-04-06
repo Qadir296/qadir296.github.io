@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-04-06'
 papers:
   ieIkq6wAAAAJ:LkGwnXOMwfcC:
     citations: 3
@@ -30,6 +30,6 @@ papers:
     title: Parallelized derivation algorithm for anomaly detection in internet of things environments
     year: '2026'
   ieIkq6wAAAAJ:roLk4NBRz8UC:
-    citations: 37
+    citations: 39
     title: 'Knowledge-based anomaly detection: Survey, challenges, and future directions'
     year: '2024'
