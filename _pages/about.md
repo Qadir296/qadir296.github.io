@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc @ EPITA, France • IoT Security • AI • Knowledge-Based Systems
+subtitle: Assocaite Professor @ EPITA, France • IoT Security • AI • Knowledge-Based Systems
 
 profile:
   align: right
@@ -22,7 +22,7 @@ announcements:
 
 Hey, Salut, Hola, Ciao! 👋
 
-I am a postdoctoral researcher at the Security and Systems Team at [LRE EPITA](https://www.lre.epita.fr/), currently working on the detection of attacks in Industrial Control Systems. 
+I am an Associate Professor at [LRE EPITA](https://www.lre.epita.fr/) and a member of Security and System team of LRE. Before that, I was a postdoctoral researcher at LRE EPITA. 
 
 Previously, I did my PhD from [Sorbonne University](https://www.sorbonne-universite.fr), under supervison of Prof. Lina Mroueh, Dr. Nouredine Tamani, and Dr. Saad El Jaouhari on Knowledge-based systems for cybersecurity. 
 
