@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assocaite Professor @ EPITA, France • IoT Security • AI • Knowledge-Based Systems
+subtitle: Associate Professor @ EPITA, France • IoT Security • AI • Knowledge-Based Systems
 
 profile:
   align: right
@@ -22,11 +22,11 @@ announcements:
 
 Hey, Salut, Hola, Ciao! 👋
 
-I am an Associate Professor at [LRE EPITA](https://www.lre.epita.fr/) and a member of Security and System team of LRE. Before that, I was a postdoctoral researcher at LRE EPITA. 
+I am an Associate Professor at [LRE EPITA](https://www.lre.epita.fr/) and a member of the Security and System team of LRE. Before that, I was a postdoctoral researcher at LRE EPITA. 
 
-Previously, I did my PhD from [Sorbonne University](https://www.sorbonne-universite.fr), under supervison of Prof. Lina Mroueh, Dr. Nouredine Tamani, and Dr. Saad El Jaouhari on Knowledge-based systems for cybersecurity. 
+Previously, I did my PhD from [Sorbonne University](https://www.sorbonne-universite.fr), under the supervision of Prof. Lina Mroueh, Dr. Nouredine Tamani, and Dr. Saad El Jaouhari on Knowledge-based systems for cybersecurity. 
 
-I have also contributed to ETSI standards related to IoT resource discovery and asynchronous contact tracing during my research internship at KAIROS Team Inria, Sophia Antipolis. 
+I have also contributed to ETSI standards related to IoT resource discovery and asynchronous contact tracing during my research internship at the KAIROS Team, Inria, Sophia Antipolis. 
 
 My research focuses on designing efficient and explainable security mechanisms for large-scale and resource-constrained IoT environments. I am particularly interested in combining symbolic reasoning with data-driven approaches to improve the robustness and interpretability of anomaly detection systems.
 
