@@ -411,7 +411,7 @@ ninja.data = [{
           title: '📄 Article accepted in MCT NOMS.',
           description: "",
           section: "News",},{id: "news-️-joined-epita-as-an-associate-professor",
-          title: '🏛️ Joined **EPITA** as an Associate Professor.',
+          title: '🏛️ Joined EPITA as an Associate Professor.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
