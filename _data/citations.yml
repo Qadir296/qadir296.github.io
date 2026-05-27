@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-27'
 papers:
   ieIkq6wAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 5
     title: A contextual derivation algorithm for cybersecurity in IoT environments
     year: '2023'
   ieIkq6wAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: Knowledge-based Systems for Cybersecurity in Internet of Things Environments
     year: '2024'
   ieIkq6wAAAAJ:WF5omc3nYNoC:
@@ -18,7 +18,7 @@ papers:
     title: Asynchronous Contact Tracing, Fighting Pandemics with Internet of Things
     year: '2021'
   ieIkq6wAAAAJ:_FxGoFyzp5QC:
-    citations: 3
+    citations: 4
     title: Improving ml/dl solutions for anomaly detection in iot environments
     year: '2024'
   ieIkq6wAAAAJ:eQOLeE2rZwMC:
@@ -26,10 +26,10 @@ papers:
     title: ETSI SmartM2M Technical Report 103715; Study for oneM2M; Discovery and Query solutions analysis & selection
     year: '2021'
   ieIkq6wAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 2
     title: Parallelized derivation algorithm for anomaly detection in internet of things environments
     year: '2026'
   ieIkq6wAAAAJ:roLk4NBRz8UC:
-    citations: 43
+    citations: 45
     title: 'Knowledge-based anomaly detection: Survey, challenges, and future directions'
     year: '2024'
