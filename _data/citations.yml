@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-12'
 papers:
   ieIkq6wAAAAJ:LkGwnXOMwfcC:
     citations: 5
@@ -18,7 +18,7 @@ papers:
     title: Asynchronous Contact Tracing, Fighting Pandemics with Internet of Things
     year: '2021'
   ieIkq6wAAAAJ:_FxGoFyzp5QC:
-    citations: 4
+    citations: 5
     title: Improving ml/dl solutions for anomaly detection in iot environments
     year: '2024'
   ieIkq6wAAAAJ:eQOLeE2rZwMC:
@@ -30,6 +30,6 @@ papers:
     title: Parallelized derivation algorithm for anomaly detection in internet of things environments
     year: '2026'
   ieIkq6wAAAAJ:roLk4NBRz8UC:
-    citations: 46
+    citations: 47
     title: 'Knowledge-based anomaly detection: Survey, challenges, and future directions'
     year: '2024'
