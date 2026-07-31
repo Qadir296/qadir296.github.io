@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-31'
 papers:
   ieIkq6wAAAAJ:LkGwnXOMwfcC:
     citations: 5
     title: A contextual derivation algorithm for cybersecurity in IoT environments
     year: '2023'
   ieIkq6wAAAAJ:Se3iqnhoufwC:
-    citations: 3
+    citations: 2
     title: Knowledge-based Systems for Cybersecurity in Internet of Things Environments
     year: '2024'
   ieIkq6wAAAAJ:WF5omc3nYNoC:
@@ -30,6 +30,6 @@ papers:
     title: Parallelized derivation algorithm for anomaly detection in internet of things environments
     year: '2026'
   ieIkq6wAAAAJ:roLk4NBRz8UC:
-    citations: 53
+    citations: 57
     title: 'Knowledge-based anomaly detection: Survey, challenges, and future directions'
     year: '2024'
