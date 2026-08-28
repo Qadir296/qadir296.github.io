@@ -24,7 +24,7 @@ Hey, Salut, Hola, Ciao! 👋
 
 I am an Associate Professor at [LRE EPITA](https://www.lre.epita.fr/) and a member of the Security and System team of LRE. Before that, I was a postdoctoral researcher at LRE EPITA. 
 
-Previously, I did my PhD from [Sorbonne University](https://www.sorbonne-universite.fr), under the supervision of Prof. Lina Mroueh, Dr. Nouredine Tamani, and Dr. Saad El Jaouhari on Knowledge-based systems for cybersecurity. 
+Previously, I completed my PhD at [Sorbonne University](https://www.sorbonne-universite.fr), under the supervision of Prof. Lina Mroueh, Dr. Nouredine Tamani, and Dr. Saad El Jaouhari, on Knowledge-based systems for cybersecurity. 
 
 I have also contributed to ETSI standards related to IoT resource discovery and asynchronous contact tracing during my research internship at the KAIROS Team, Inria, Sophia Antipolis. 
 
